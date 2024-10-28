@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiaxin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Math Ph.D. at Caltech"
+  location         : "Pasadena CA"
+  employer         : "California Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangjx@caltech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
