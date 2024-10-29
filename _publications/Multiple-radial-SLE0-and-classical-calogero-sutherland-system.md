@@ -1,5 +1,5 @@
 ---
-title: "Multiple radial SLE(0) and Classical Calogero-Sutherland system"
+title: "Multiple radial SLE(0) and classical Calogero-Sutherland system"
 collection: publications
 category: preprints
 permalink: /publication/Multiple-radial-SLE0-and-classical-calogero-sutherland-system
