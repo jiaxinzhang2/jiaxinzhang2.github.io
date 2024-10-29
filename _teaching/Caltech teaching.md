@@ -1,5 +1,5 @@
 ---
-title: "Teaching at California Institute of Technology"
+title: "California Institute of Technology"
 collection: teaching
 type: ""
 permalink: /teaching/Caltech teaching
