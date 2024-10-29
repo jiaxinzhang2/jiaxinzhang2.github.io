@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/Caltech teaching
 venue: "California Institute of Technology"
-date: 
+date: 2019-2025
 location: "Pasadena, CA"
 ---
 
