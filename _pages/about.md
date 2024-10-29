@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year graduate student in [mathematics department](https://pma.caltech.edu/research-and-academics/mathematics) at California Institute of Technology, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
-Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
+I am a sixth-year graduate student from [math department](https://pma.caltech.edu/research-and-academics/mathematics), [Caltech](https://www.caltech.edu/), where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
+Before my doctoral studies, I received my B.S. in Mathematics from [Peking University](https://www.math.pku.edu.cn/puremath_en/).
 
 Research
 ======
