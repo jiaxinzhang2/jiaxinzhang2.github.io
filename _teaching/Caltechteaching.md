@@ -2,9 +2,9 @@
 title: "California Institute of Technology"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/Caltech teaching
+permalink: /teaching/Caltechteaching
 venue: "California Institute of Technology"
-date: 2019-2025
+date: 
 location: "Pasadena, CA"
 ---
 
