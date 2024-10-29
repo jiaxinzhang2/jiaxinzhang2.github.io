@@ -1,10 +1,10 @@
 ---
 title: "California Institute of Technology"
 collection: teaching
-type: ""
+type: "Teaching Assistant"
 permalink: /teaching/Caltech teaching
 venue: "California Institute of Technology"
-date: 2014-01-01
+date: 
 location: "Pasadena, CA"
 ---
 
