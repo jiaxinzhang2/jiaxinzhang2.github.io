@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/Caltechteaching
 venue: "California Institute of Technology"
-date: 09/01/2019
+date: 2019
 location: "Pasadena, CA"
 ---
 
