@@ -6,6 +6,4 @@ permalink: /publication/Multiple-radial-SLE0-and-classical-calogero-sutherland-s
 excerpt: ''
 date: 2024-10-30
 venue: 'arXiv preprint'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
