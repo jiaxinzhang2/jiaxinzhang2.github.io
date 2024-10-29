@@ -8,5 +8,4 @@ date: 2024-10-30
 venue: 'Arxiv'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: ''
 ---
