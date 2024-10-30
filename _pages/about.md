@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * I am a sixth-year graduate student from mathematics department, Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
-Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
+Before my doctoral studies, I received my B.S. in Mathematics from Peking University. You can find my [CV](
 
 * My research involves analysis, probability theory, and mathematical physics. To be more precise, I am interested in the theory of Schramm-Loewner evolutions (SLE) and its connections to mathematical conformal field theory (CFT).
 
@@ -28,3 +28,20 @@ Invited Talks
 * Los Angeles Probability Forum, Caltech, May 2 2024
 * Analysis Seminar, Caltech, Apr 10 2024
 
+Teaching
+=======
+* California Institute of Technology, Teaching Assistant
+  * ACM 216: Markov Chains, Discrete Stochastic Processes and Applications, Winter 2024
+  * Ma 121a Combinatorial Analysis, Fall 2024
+  * Ma 140a Probability, Winter 2023
+  * Ma 102 Differential Equations, Fall 2023
+  * Ma 108c Classical Analysis (Complex Analysis), Spring 2022
+  * Ma 110b Analysis (Complex Analysis), Winter 2022
+  * Ma 121a Combinatorial Analysis, Fall 2022
+  * Ma 103 Intro to Probability and Statistics, Winter 2021 
+  * Ma 102 Differential Equations, Fall 2021
+  * Ma 102 Differential Equations, Fall 2020
+  * Ma 110a Analysis (Real Analysis), Fall 2020
+  * Ma 1c Calculus and Linear Algebra, Spring 2019
+  * Ma 1b Calculus and Linear Algebra, Winter 2019
+  * Ma 1a Calculus and Linear Algebra, Fall 2019
