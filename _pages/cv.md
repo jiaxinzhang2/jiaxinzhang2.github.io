@@ -20,7 +20,7 @@ Education
 
 Publications
 ======
-1. Multiple radial SLE(0) and classical Calegero-Sutherland system.
+* [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), (arXiv:2410.21544), 2024.
   
 Talks
 ======
