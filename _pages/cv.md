@@ -22,7 +22,7 @@ Publications
 ======
 * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), (arXiv:2410.21544), 2024.
   
-Talks
+Invited Talks
 ======
 * Los Angeles Probability Forum, Caltech, May 2 2024
 * Analysis Seminar, Caltech, Apr 10 2024
