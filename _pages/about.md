@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 * I am a sixth-year graduate student from mathematics department, Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
-Before my doctoral studies, I received my B.S. in Mathematics from Peking University. You can find my [CV](
+Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
+   Here is my [CV](../assets/Curriculum_Vitae).
 
 * My research involves analysis, probability theory, and mathematical physics. To be more precise, I am interested in the theory of Schramm-Loewner evolutions (SLE) and its connections to mathematical conformal field theory (CFT).
 
