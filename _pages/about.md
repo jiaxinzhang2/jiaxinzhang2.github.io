@@ -11,7 +11,7 @@ redirect_from:
 Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
    Here is my [CV](https://jiaxinzhang2.github.io/assets/Curriculum_Vitae.pdf).
 
-* My research involves analysis, probability theory, and mathematical physics, with a focus on the theory of Schramm-Loewner evolutions (SLE) and its connections to mathematical conformal field theory (CFT).
+* My research focuses on complex analysis, probability theory, and mathematical physics, particularly on Schramm-Loewner evolutions (SLE) and their connections to mathematical conformal field theory (CFT).
 
 Education
 ======
