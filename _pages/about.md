@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-* I am a sixth-year graduate student from mathematics department, Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
+* I am a sixth-year graduate student from the mathematics department at Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
 Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
    Here is my [CV](https://jiaxinzhang2.github.io/assets/Curriculum_Vitae.pdf).
 
-* My research focuses on complex analysis, probability theory, and mathematical physics, particularly on Schramm-Loewner evolutions (SLE) and their connections to mathematical conformal field theory (CFT).
+* My research focuses on analysis, probability theory, and mathematical physics, particularly Schramm-Loewner evolutions (SLE) and their connections to mathematical conformal field theory (CFT). I am also interested in statistics and machine learning.
 
 Education
 ======
-* Ph.D. in Mathematics, California Institute of Technology, 2025(expected)
+* Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
 
 Research
@@ -26,8 +26,11 @@ Research
 
 Invited Talks
 ======
+* Stochastics Seminar, University of Utah, Feb 28 2025
+* Probability Seminar, University of Chicago, Jan 31 2025
 * Los Angeles Probability Forum, Caltech, May 2 2024
 * Analysis Seminar, Caltech, Apr 10 2024
+* Graduate student Seminar, Caltech, Jan 28 2022
 
 Teaching
 =======
