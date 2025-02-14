@@ -11,7 +11,7 @@ redirect_from:
 Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
    Here is my [CV](https://jiaxinzhang2.github.io/assets/Curriculum_Vitae.pdf).
 
-* My research focuses on analysis, probability, and mathematical physics, with an interest in statistics and machine learning.
+* My research focuses on analysis, probability, and mathematical physics. Topics I have been working on include conformal field theory and multiple SLEs.
 
 Education
 ======
