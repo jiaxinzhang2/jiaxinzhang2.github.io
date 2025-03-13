@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-* I am a sixth-year graduate student from the mathematics department at Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
+* I am a graduate student at Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
 Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
    Here is my [CV](https://jiaxinzhang2.github.io/assets/Curriculum_Vitae.pdf).
 
-* My research focuses on analysis, probability, and mathematical physics. Topics I have been working on include conformal field theory and multiple SLEs.
+* My research focuses on analysis and probability theory. Topics I have been working on include multiple Schramm-Loewner evolutions.
 
 Education
 ======
@@ -22,6 +22,8 @@ Research
 ======
 * Accepted for publication
 * Preprints
+  * [Pure partition functions for multiple radial and chordal SLE systems]
+  * [Multiple chordal SLE(0) and classical Calegero-Moser system]
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), (arXiv:2410.21544), 2024.
 
 Invited Talks
