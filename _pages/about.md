@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-* I am a graduate student at Caltech, where I am advised by Professor [Nikolai Makarov](https://pma.caltech.edu/people/nikolai-makarov). 
-Before my doctoral studies, I received my B.S. in Mathematics from Peking University.
-   Here is my [CV](https://jiaxinzhang2.github.io/assets/Curriculum_Vitae.pdf).
-
-* My research focuses on analysis and probability theory. Topics I have been working on include multiple Schramm-Loewner evolutions.
-
 Education
 ======
 * Ph.D. in Mathematics, California Institute of Technology, 2025
