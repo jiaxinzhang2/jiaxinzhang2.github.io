@@ -12,12 +12,18 @@ Education
 * Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
 
+Thesis
+======
+[On multiple SLE systems and their deterministic limits], Ph. D. thesis, California Institute of Technology, 2025.
 Research
 ======
 * Accepted for publication
 * Preprints
-  * [Pure partition functions for multiple radial and chordal SLE systems]
-  * [Multiple chordal SLE(0) and classical Calegero-Moser system]
+  * [Survey on multiple SLE systems and their deterministic limits], in preparation.
+  * [Pure partition functions for multiple radial and chordal SLE systems], in preparation.
+  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system], in preparation.
+  * [Multiple chordal SLE(0) and classical Calegero-Moser system], in preparation
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system], in preparation.
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), (arXiv:2410.21544), 2024.
 
 Invited Talks
