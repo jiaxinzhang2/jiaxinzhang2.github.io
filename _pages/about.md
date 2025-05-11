@@ -15,6 +15,7 @@ Education
 Thesis
 ======
 [On multiple SLE systems and their deterministic limits], Ph. D. thesis, California Institute of Technology, 2025.
+
 Research
 ======
 * Accepted for publication
