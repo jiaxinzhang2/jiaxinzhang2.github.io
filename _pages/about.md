@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+
+I work at the intersection of analysis, probability theory, and machine learning. With a background in stochastic processes and optimization, I am now expanding into artificial intelligence.
+
 Education
 ======
 * Ph.D. in Mathematics, California Institute of Technology, 2025
@@ -22,8 +27,6 @@ Honors and Awards
 Thesis
 ======
 [On multiple SLE systems and their deterministic limits](https://resolver.caltech.edu/CaltechTHESIS:05202025-052235420), Ph. D. thesis, California Institute of Technology, 2025.
-
-I work at the intersection of analysis, probability theory, and machine learning. With a background in stochastic processes and optimization, I am now expanding into artificial intelligence.
 
 Research
 ======
