@@ -14,9 +14,9 @@ Education
 
 Honors and Awards
 ======
-*2025 Scoot Russel Johnson Thesis Award, Caltech
-*2020 Scott Russell Johnson Fellowship, Caltech
-*2017, 2018 Silver Medals in Shing-Tung Yau Mathematics Contest (in Analysis and PDEs), China
+* 2025 Scoot Russel Johnson Thesis Award, Caltech
+* 2020 Scott Russell Johnson Fellowship, Caltech
+* 2017, 2018 Silver Medals in Shing-Tung Yau Mathematics Contest (in Analysis and PDEs), China
  
 
 Thesis
