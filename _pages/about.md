@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-
 I work at the intersection of analysis, probability theory, and machine learning. With a background in stochastic processes and optimization, I am now expanding into artificial intelligence.
 
 Education
