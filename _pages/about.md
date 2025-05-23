@@ -12,19 +12,27 @@ Education
 * Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
 
+Honors and Awards
+======
+ *2025 Scoot Russel Johnson Thesis Award, Caltech
+ *2020 Scott Russell Johnson Fellowship, Caltech
+ *2017, 2018 Silver Medals in Shing-Tung Yau Mathematics Contest (in Analysis and PDEs), China
+ 
+
 Thesis
 ======
-[On multiple SLE systems and their deterministic limits], Ph. D. thesis, California Institute of Technology, 2025.
+[On multiple SLE systems and their deterministic limits](https://resolver.caltech.edu/CaltechTHESIS:05202025-052235420), Ph. D. thesis, California Institute of Technology, 2025.
+
+I work at the intersection of analysis, probability theory, and machine learning. With a background in stochastic processes and optimization, I am now expanding into artificial intelligence.
 
 Research
 ======
 * Accepted for publication
 * Preprints
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
-  * [Pure partition functions for multiple radial and chordal SLE systems], in preparation.
-  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system], in preparation.
-  * [Multiple chordal SLE(0) and classical Calegero-Moser system], in preparation
-  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system], in preparation.
+  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
+  * [Multiple chordal SLE(0) and classical Calegero-Moser system], 2025
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), 2024.
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), (arXiv:2410.21544), 2024.
 
 Invited Talks
