@@ -13,12 +13,6 @@ Education
 ======
 * Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
-
-Honors and Awards
-======
-* 2020 Scott Russell Johnson Fellowship, Caltech
-* 2018 Silver Medal in Shing-Tung Yau Mathematics Team Contest (in Analysis and PDEs)
-* 2017 Silver Medal in Shing-Tung Yau Mathematics Individual Contest (in Analysis and PDEs)
  
 
 Thesis
