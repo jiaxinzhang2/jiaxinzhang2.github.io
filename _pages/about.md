@@ -7,27 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I work at the intersection of analysis, probability theory, and machine learning. With a background in stochastic processes and optimization, I am now expanding into artificial intelligence.
+I work in probability theory and am expanding into AI.
 
 Education
 ======
 * Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
- 
 
 Research
 ======
-* Statistics
-* Large Language Model
-  *[LLM reasoning on mathematical problem set], in preparation
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), 2025
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), 2024.
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), 2024.
- 
 
+* Large Language Model
+  *[LLM reasoning on mathematical problem set], in preparation,
+* Statistics
+ 
 Thesis
 ======
 [On multiple SLE systems and their deterministic limits](https://resolver.caltech.edu/CaltechTHESIS:05202025-052235420), Ph. D. thesis, California Institute of Technology, 2025.
