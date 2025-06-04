@@ -18,6 +18,7 @@ Research
 ======
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
+  * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), 2025.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), 2025
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), 2024.
@@ -29,7 +30,7 @@ Research
  
 Thesis
 ======
-[On multiple SLE systems and their deterministic limits](https://resolver.caltech.edu/CaltechTHESIS:05202025-052235420), Ph. D. thesis, California Institute of Technology, 2025.
+[On multiple SLE systems and their deterministic limits](https://thesis.library.caltech.edu/17252/), Ph. D. thesis, California Institute of Technology, 2025.
 
 Invited Talks
 ======
