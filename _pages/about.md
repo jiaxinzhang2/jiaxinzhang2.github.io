@@ -18,6 +18,7 @@ Research
 ======
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
+  * [Irregular traces of multiple SLE(0) systems with multiple marked points], in preparation.
   * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), 2025.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), 2025
