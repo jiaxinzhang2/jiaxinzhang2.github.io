@@ -18,12 +18,12 @@ Research
 ======
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
-  * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), in preparation.
+  * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), 2025.
   * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), 2025.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), 2025
-  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), 2024.
-  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), 2024.
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), joint with N. Makarov, 2024.
+  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), joint with N. Makarov, 2024.
 
 * Large Language Model
   *[LLM reasoning on mathematical problem set], in preparation,
