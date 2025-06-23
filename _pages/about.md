@@ -16,6 +16,10 @@ Education
 
 Research
 ======
+* AI for math
+* Large language models
+  * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md)
+  * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf)
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), 2025.
@@ -24,11 +28,9 @@ Research
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), 2025
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), joint with N. Makarov, 2024.
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), joint with N. Makarov, 2024.
+  * [Slides: Multiple radial SLE(0) and classical Calegero-Sutherland system](https://github.com/jiaxinzhang2/jiaxinzhang2.github.io/blob/master/_talks/On_multiple_SLE_systems_and_their_deterministic_limits.pdf), 2024
 
-* Large Language Model
-  *[LLM reasoning on mathematical problem set], in preparation,
-* Statistics
- 
+
 Thesis
 ======
 [On multiple SLE systems and their deterministic limits](https://thesis.library.caltech.edu/17252/), Ph. D. thesis, California Institute of Technology, 2025.
