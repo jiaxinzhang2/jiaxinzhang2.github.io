@@ -24,11 +24,11 @@ author:
   avatar           : "Jiaxin Zhang Hiking.png"
   name             : "Jiaxin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Math Ph.D. at Caltech"
+  bio              : ""
   location         : "Pasadena CA"
   employer         : "California Institute of Technology"
   uri              : # URL
-  email            : "zhangjx@caltech.edu" 
+  email            : "zhangjx@alumni.caltech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
