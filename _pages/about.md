@@ -9,11 +9,9 @@ redirect_from:
 
 I'm expanding into **AI**, with a focus on **large language models** and **AI for mathematics**.
 
-I previously worked on **SLE (Schramm–Loewner Evolution)**, a branch of probability theory. 
+I previously worked on **SLE (Schramm–Loewner Evolution)**, a branch of probability theory. During my doctoral studies, I developed a theory for **multiple SLE systems** —an important class of random multi-curve systems—and analyzed their deterministic limits in both the chordal and radial cases.
 
-During my Ph.D., I developed a theory for **multiple SLE($\kappa$) systems** —an important class of random multi-curve systems—and analyzed their deterministic limits in both the chordal and radial cases.
-
-SLE is a class of random curves that describe phase boundaries in two-dimensional critical statistical mechanics systems. For background, see the [Introductory Slides on SLE by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html)
+SLE is a class of random curves that describe phase boundaries in two-dimensional critical statistical mechanics systems. For background, see the [Introductory Slides on SLE by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
 
 Education
 ======
@@ -23,6 +21,7 @@ Education
 Research
 ======
 * AI for math
+  *
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md)
   * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf)
