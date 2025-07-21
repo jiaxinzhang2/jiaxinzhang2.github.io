@@ -16,6 +16,7 @@ Education
 
 Research
 ======
+* AI for math
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md)
   * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf)
