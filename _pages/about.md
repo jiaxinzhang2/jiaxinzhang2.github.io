@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm expanding into AI. I previously worked in probability theory.
+I'm expanding into **AI**, with a focus on **large language models** and **AI for mathematics**.
+
+I previously worked on **SLE (Schramm–Loewner Evolution)**, a branch of probability theory. 
+
+During my Ph.D., I developed a theory for **multiple SLE($\kappa$) systems** —an important class of random multi-curve systems—and analyzed their deterministic limits in both the chordal and radial cases.
+
+SLE is a class of random curves that describe phase boundaries in two-dimensional critical statistical mechanics systems. For background, see the [Introductory Slides on SLE by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html)
 
 Education
 ======
