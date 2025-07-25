@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm expanding into **AI**, with a focus on **large language models** and **AI for mathematics**.
+I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**.
 
-I previously worked on **SLE (Schramm–Loewner Evolution)**, a branch of probability theory. During my doctoral studies, I developed a theory for **multiple SLE systems** —an important class of random multi-curve systems—and analyzed their deterministic limits in both the chordal and radial cases.
+Previously, my research focused on **Schramm–Loewner Evolution (SLE)**, a topic in **probability theory**. During my Ph.D., I developed a theory for **multiple SLE systems**—a fundamental class of random multi-curve models—and analyzed their deterministic limits.
 
-SLE is a class of random curves that describe phase boundaries in two-dimensional critical statistical mechanics systems. For background, see the [Introductory Slides on SLE by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
+**SLE** describes random interfaces arising in two-dimensional critical phenomena. For an accessible introduction, see the [introductory slides by Fields medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
+
+Earlier, I also worked on **equilibria in nonlinear diffusion and nonlocal interaction**, a subject within **nonlinear partial differential equations (PDEs)**. For background, see the [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4).
 
 Education
 ======
