@@ -33,7 +33,7 @@ Research
   * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), supplementary note, Jiaxin Zhang, 2025.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), submitted, Jiaxin Zhang, 2025.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/pdf/2505.17129), submitted, Jiaxin Zhang, 2025
-  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), submitted ,Jiaxin Zhang, 2024.
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), submitted, Jiaxin Zhang, 2024.
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), submitted, Jiaxin Zhang, 2024.
   * [Slides: Multiple radial SLE(0) and classical Calegero-Sutherland system](https://github.com/jiaxinzhang2/jiaxinzhang2.github.io/blob/master/_talks/On_multiple_SLE_systems_and_their_deterministic_limits.pdf), 2024
 
