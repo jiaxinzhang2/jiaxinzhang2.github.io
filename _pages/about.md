@@ -25,8 +25,8 @@ Research
 * AI for math
   *
 * Large language models
-  * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md)
-  * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf)
+  * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
+  * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf), 2025.
 * Multiple SLE systems
   * [Survey on multiple SLE systems and their deterministic limits], survey article, in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), supplementary note, 2025.
