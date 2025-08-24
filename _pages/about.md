@@ -28,7 +28,7 @@ Research
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
   * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf), 2025.
 * Multiple SLE systems
-  * [Survey on multiple SLE systems and their deterministic limits], survey article, in preparation.
+  * [Probabilistic and Algebraic Structures in Multiple SLE Systems and Their Deterministic Limits: A Survey], expository article, in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), supplementary note, 2025.
   * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), supplementary note, 2025.
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), 2025.
