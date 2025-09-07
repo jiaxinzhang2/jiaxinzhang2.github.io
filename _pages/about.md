@@ -40,7 +40,7 @@ Research
 
 Thesis
 ======
- * [On multiple SLE systems and their deterministic limits](https://thesis.library.caltech.edu/17252/), Ph. D. thesis, California Institute of Technology, 2025.
+ * [On multiple SLE systems and their deterministic limits]([https://drive.google.com/file/d/1NHtQDo4AJI99IJ8VPE3uWXslpAo2eEQh/view?usp=sharing]), Ph. D. thesis, California Institute of Technology, 2025.
 
 Invited Talks
 ======
