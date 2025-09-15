@@ -29,7 +29,7 @@ Research
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
 
-    Trained an LLM router based on methodology of P2L and Chatbot Arena
+    Developed and trained an LLM router on pairwise human preference data using the P2L and Chatbot Arena methodology.
   * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf), 2025.
 * Multiple SLE systems
   * [Probabilistic and algebraic structures in multiple SLE systems and their deterministic limits: a survey], expository article, Jiaxin Zhang, in preparation.
