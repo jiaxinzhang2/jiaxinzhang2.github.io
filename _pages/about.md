@@ -23,9 +23,13 @@ Education
 Research
 ======
 * AI for math
-  * [GAUSS Benchmark](https://gaussmath.ai/) Designed the GAUSS evaluation framework, conducted experiments, authored the research paper, and built the project website.
+  * [Benchmarking Structured Mathematical Skills for Large Language Models (GAUSS benchmark)](https://gaussmath.ai/)
+  
+    Designed the GAUSS evaluation framework, organized the dataset and conducted experiments profiling LLMs’ mathematical skills.
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
+
+    Trained an LLM router based on methodology of P2L and Chatbot Arena
   * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf), 2025.
 * Multiple SLE systems
   * [Probabilistic and algebraic structures in multiple SLE systems and their deterministic limits: a survey], expository article, Jiaxin Zhang, in preparation.
