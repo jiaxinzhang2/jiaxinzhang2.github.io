@@ -23,7 +23,7 @@ Education
 Research
 ======
 * AI for math
-  [GAUSS Benchmark](https://gaussmath.ai/)
+  * [GAUSS Benchmark](https://gaussmath.ai/)
   Designed the GAUSS evaluation framework, including skills decomposition and evaluation pipeline; authored the research paper and built the website.
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
