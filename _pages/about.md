@@ -23,9 +23,9 @@ Education
 Research
 ======
 * AI for math
-  * [Benchmarking Structured Mathematical Skills for Large Language Models (GAUSS benchmark)](https://gaussmath.ai/)
+  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)
   
-    Designed the GAUSS evaluation framework, organized the dataset and conducted experiments profiling LLMs’ mathematical skills.
+    Designed the GAUSS framework, organized the dataset and conducted experiments profiling LLMs’ mathematical skills.
 * Large language models
   * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
 
