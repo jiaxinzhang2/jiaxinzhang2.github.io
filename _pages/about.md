@@ -26,11 +26,6 @@ Research
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)
   
     Designed the GAUSS framework, organized the dataset and conducted experiments profiling LLMs’ mathematical skills.
-* Large language models
-  * [Technical Review: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/technical_review.md), 2025.
-
-    Developed and trained an LLM router on pairwise human preference data using the P2L and Chatbot Arena methodology.
-  * [Slides: Chatbot Arena and Prompt-to-Leaderboard (P2L)](https://github.com/jiaxinzhang2/LLM-router/blob/main/p2l_slides.pdf), 2025.
 * Multiple SLE systems
   * [Probabilistic and algebraic structures in multiple SLE systems and their deterministic limits: a survey], expository article, Jiaxin Zhang, in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), supplementary note, Jiaxin Zhang, 2025.
