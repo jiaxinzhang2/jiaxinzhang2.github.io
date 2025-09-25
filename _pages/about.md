@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently interested in **statistics** and **machine learning**, and I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**.
+I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**. I am also interested in **statistics** and **machine learning**.
 
 My research background lies at the intersection of **probability theory** and **partial differential equations (PDEs)**.
 
