@@ -9,7 +9,7 @@ redirect_from:
 
 I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**. I am also interested in **statistics** and **machine learning**.
 
-During my Ph.D., I developed a theory for **multiple SLE systems** — a class of random multi-curve systems — and analyzed their deterministic limits using methods from **diffussion processes** and **quantum field theory**. For background, see the [introductory slides by Fields medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
+During my Ph.D., I developed a theory for **multiple SLE systems** — a class of random multi-curve systems — and analyzed their deterministic limits using techniques from **diffussion processes** and **quantum field theory**. For background, see the [introductory slides by Fields medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
 
 Previously, I also studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of energy **functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). I was awarded silver medals in Shing-Tung Yau’s Math Contest in Analysis and Partial Differential Equations.
 
