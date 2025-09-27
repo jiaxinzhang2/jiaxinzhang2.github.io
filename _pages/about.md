@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**. I am also interested in **statistics** and **machine learning**.
+I am expanding into **AI**, with a focus on **large language models** and **AI for mathematics**, while also pursuing interests in **statistics** and **machine learning**.
 
 During my Ph.D., I worked on **probability theory**, where I systematically developed a theory for **multiple SLE systems** — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html).
 
