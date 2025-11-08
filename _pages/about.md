@@ -23,8 +23,8 @@ Research
 ======
 * AI for math
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)
-  
-    Designed the GAUSS framework, organized the dataset and conducted experiments profiling LLMs’ mathematical skills.
+   
+    Designed the GAUSS framework, a benchmark that evaluates large language models’ mathematical abilities through skill-based decomposition.
 * Multiple SLE systems
   * [Probabilistic and algebraic structures in multiple SLE systems and their deterministic limits: a survey], survey article, Jiaxin Zhang, in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), supplementary note, Jiaxin Zhang, 2025.
