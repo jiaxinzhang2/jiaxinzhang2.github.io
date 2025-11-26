@@ -11,7 +11,9 @@ I am expanding into **AI**, focusing on **large language models** and **AI for m
 
 During my Ph.D. with [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I systematically developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
 
-During my undergraduate studies at Peking University, I had a strong interest in topology and completed my thesis with Yi Liu on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc). I was also awarded **Silver Medals** in **Shing-Tung Yau’s Mathematical Contest** in Analysis and Partial Differential Equations.
+At the beginning of my Ph.D., I was interested in **partitial differential equations**. I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
+
+During my undergraduate studies at Peking University, I had a strong interest in analysis and low-dimensional topology. I was awarded **Silver Medals** in **Shing-Tung Yau’s Mathematical Contest** in Analysis and Partial Differential Equations and completed my thesis with Yi Liu on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc). 
 
 
 Education
