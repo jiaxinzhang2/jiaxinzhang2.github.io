@@ -11,7 +11,7 @@ I am expanding into **AI**, focusing on **large language models** and **AI for m
 
 During my Ph.D. with [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I systematically developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
 
-At the beginning of my Ph.D., I was interested in **partitial differential equations**. I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
+At the beginning of my Ph.D., I was interested in **partial differential equations**. I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
 During my undergraduate studies at Peking University, I had a strong interest in analysis and low-dimensional topology. I was awarded **Silver Medals** in **Shing-Tung Yau’s Mathematical Contest** in Analysis and Partial Differential Equations and completed my thesis with Yi Liu on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc). 
 
@@ -24,6 +24,7 @@ Education
 Research
 ======
 * AI for math
+  * [GAUSS Eval (Human–LLM Judge Consistency Analysis)]()
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)
    
     Designed the GAUSS framework, a benchmark that evaluates large language models’ mathematical abilities through skill-based decomposition.
@@ -37,10 +38,14 @@ Research
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), submitted, Jiaxin Zhang, 2024.
   * [Slides: Multiple radial SLE(0) and classical Calegero-Sutherland system](https://github.com/jiaxinzhang2/jiaxinzhang2.github.io/blob/master/_talks/On_multiple_SLE_systems_and_their_deterministic_limits.pdf), 2024
 
-
 Thesis
 ======
- * [On multiple SLE systems and their deterministic limits](https://drive.google.com/file/d/1NHtQDo4AJI99IJ8VPE3uWXslpAo2eEQh/view?usp=sharing), Ph. D. thesis, California Institute of Technology, 2025.
+*[On multiple SLE systems and their deterministic limits](https://drive.google.com/file/d/1NHtQDo4AJI99IJ8VPE3uWXslpAo2eEQh/view?usp=sharing), Ph. D. thesis, California Institute of Technology, 2025.
+
+Awards
+======
+* Silver Award in the Best Thesis Award at the International Congress of Chinese Mathematicians (ICCM)
+* Silver Medals in Shing-Tung Yau College Mathematics Contest
 
 Invited Talks
 ======
