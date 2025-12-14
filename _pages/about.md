@@ -9,7 +9,7 @@ redirect_from:
 
 I am expanding into **AI**, focusing on **large language models** and **AI for mathematics**, while also pursuing interests in **statistics** and **machine learning**.  
 
-During my Ph.D. with [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I systematically developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
+During my Ph.D., I worked on **probability theory**, where I systematically developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
 
 At the beginning of my Ph.D., I was interested in **partial differential equations**. I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
