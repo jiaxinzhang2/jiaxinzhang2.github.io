@@ -24,8 +24,8 @@ Education
 Research
 ======
 * AI for math
-  * [GAUSS Eval (Human–LLM Judge Consistency Analysis)](https://gaussmath.ai/eval.html)
-    Design a statistical evaluation system with segmentation and multi-dimensional metrics to measure the performance of an LLM math judge.
+  * [GAUSS Eval (Human–LLM Judge Consistency Analysis)](https://gaussmath.ai/eval.html)              
+    Designed a statistical evaluation system with segmentation and multi-dimensional metrics to measure the performance of an LLM math judge.
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)   
     Designed the GAUSS framework, a benchmark that evaluates large language models’ mathematical abilities through skill-based decomposition.
 * Multiple SLE systems
