@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am expanding my research into **AI**, with an emphasis on **mathematical reasoning**, **statistics**, and **reinforcement learning with human feedback (RLHF)**.
+I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, **statistics**, and **reinforcement learning with human feedback (RLHF)**.
 
 During my Ph.D., I worked on **probability theory**, where I systematically developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
 
