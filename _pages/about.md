@@ -29,13 +29,12 @@ Research
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)   
     Designed the GAUSS framework, a benchmark that evaluates large language models’ mathematical abilities through skill-based decomposition.
 * Multiple SLE systems
-  * [Probabilistic and algebraic structures in multiple SLE systems and their deterministic limits: a survey], survey article, Jiaxin Zhang, in preparation.
   * [Irregular traces of multiple SLE(0) systems with multiple marked points](https://arxiv.org/abs/2506.07513), supplementary note, Jiaxin Zhang, 2025.
   * [Asymptotic of Coulomb gas integrals, Temperley-Lieb type algebras and pure partition functions](https://arxiv.org/abs/2506.01306), supplementary note, Jiaxin Zhang, 2025.
-  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093), submitted, Jiaxin Zhang, 2025.
-  * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), submitted, Jiaxin Zhang, 2025
-  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), submitted, Jiaxin Zhang, 2024.
-  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), submitted, Jiaxin Zhang, 2024.
+  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093),  Jiaxin Zhang, 2025.
+  * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), Jiaxin Zhang, 2025
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), Jiaxin Zhang, 2024.
+  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), Jiaxin Zhang, 2024.
   * [Slides: Multiple radial SLE(0) and classical Calegero-Sutherland system](https://github.com/jiaxinzhang2/jiaxinzhang2.github.io/blob/master/_talks/On_multiple_SLE_systems_and_their_deterministic_limits.pdf), 2024
 
 Thesis
