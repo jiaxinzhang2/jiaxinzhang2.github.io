@@ -9,7 +9,7 @@ redirect_from:
 
 I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, **statistics**, and **reinforcement learning**.
 
-During my Ph.D., I worked on **probability theory**, where I independently developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award** for my doctoral thesis at the **International Congress of Chinese Mathematicians (ICCM)**.  
+During my Ph.D., I worked on **probability theory**, where I independently developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits using martingale methods inspired by **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). I received the **Silver Award in Best Thesis Award at International Congress of Chinese Mathematicians (ICCM)**.  
 
 At the beginning of my Ph.D., I was interested in **partial differential equations** and worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en). I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
