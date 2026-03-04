@@ -13,7 +13,7 @@ During my doctoral studies under the supervision of professor [Nikolai Makarov](
 
 At the beginning of my Ph.D., I was interested in **partial differential equations** and worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en). I studied **equilibria in nonlinear diffusion and nonlocal interaction**, focusing on the structure of **energy functional minimizers** and connections to **optimal transport theory**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
-During my undergraduate studies at Peking University, I developed a strong interest in topology and dynamical systems. I spent a semester at MIT studying Teichmüller dynamics. I completed my thesis with Yi Liu on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc).
+During my undergraduate studies at Peking University, I developed a strong interest in topology and dynamical systems. I spent a semester at MIT studying Teichmüller dynamics. I completed my thesis with Professor Yi Liu at BICMR on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc).
 
 
 Education
