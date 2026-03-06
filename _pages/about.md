@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **reinforcement learning**, **benchmarking** and **formalization**.
+I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **reinforcement learning**, **formalization** and **benchmark**.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
@@ -23,7 +23,7 @@ Education
 
 Research
 ======
-* AI for math
+* Benchmark
   * [GAUSS Eval (Human–LLM Judge Consistency Analysis)](https://gaussmath.ai/eval.html)              
     Designed a statistical evaluation system with segmentation and multi-dimensional metrics to measure the performance of an LLM math judge.
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)   
