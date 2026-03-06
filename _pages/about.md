@@ -23,6 +23,7 @@ Education
 
 Research
 ======
+* Formalization 
 * Benchmark
   * [GAUSS Eval (Human–LLM Judge Consistency Analysis)](https://gaussmath.ai/eval.html)              
     Designed a statistical evaluation system with segmentation and multi-dimensional metrics to measure the performance of an LLM math judge.
