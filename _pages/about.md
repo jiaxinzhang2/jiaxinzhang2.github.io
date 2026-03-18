@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **AI-assisted mathematical proof** and **formalization** and **reinforcement learning** and **benchmarking**.
+I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **AI-assisted mathematical proof**,**formalization**, **reinforcement learning** and **benchmarking**.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
