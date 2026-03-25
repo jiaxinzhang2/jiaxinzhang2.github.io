@@ -9,7 +9,7 @@ redirect_from:
 
 I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **AI-assisted mathematical proof**,**formalization**, **reinforcement learning** and **benchmarking**.
 
-During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
+During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems — a class of random multi-curve systems — and analyzed their deterministic limits. My research combines analysis and probability, motivated by **statistical physics** and **quantum field theory**. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
 At the beginning of my Ph.D., I spent some time working on **partial differential equations** with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en). I studied **equilibria in nonlinear diffusion and nonlocal interaction**. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
