@@ -23,7 +23,7 @@ Education
 
 Research
 ======
-* [On the Paucity of Lattice Triangles](https://gaussmath.ai/)   
+* [On the Paucity of Lattice Triangles](https://arxiv.org/pdf/2603.23928)  
   
 * Benchmark
   
