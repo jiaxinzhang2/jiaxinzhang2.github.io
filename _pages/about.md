@@ -23,7 +23,7 @@ Education
 
 Research
 ======
-* AI-assisted Mathematical Proof
+* [On the Paucity of Lattice Triangles](https://gaussmath.ai/)   
   
 * Benchmark
   
