@@ -23,7 +23,7 @@ Education
 
 Research
 ======
-* AI-assisted Theorem Proving
+* AI-assisted theorem proving
   * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928), joint with D. Angdinata, E. Chen, K. Ono, J. Zhang, 2026.
   
 * Benchmark
