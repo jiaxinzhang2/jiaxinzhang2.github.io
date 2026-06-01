@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **reinforcement learning**, **AI-assisted theorem proving**, **formalization** and **benchmarking**.
+I am expanding my research into **AI**, with an emphasis on **AI for mathematics**, including **AI-assisted theorem proving**, **reinforcement learning**,**formalization** and **benchmarking**.
 
-During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. My research combines probability and **representation theory**, studying the integrability of systems of multiple random curves and its connections to quantum groups and the Calogero–Sutherland model. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
+During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
 At the beginning of my Ph.D., I spent some time working on **partial differential equations** with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en). I studied equilibria in nonlinear diffusion and nonlocal interaction. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
-During my undergraduate studies at Peking University, I was interested in **dynamical systems** and **low dimensional topology**. I spent a semester at MIT studying Teichmüller dynamics. I completed my thesis with Professor Yi Liu at BICMR on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc).
+During my undergraduate studies at Peking University, I was interested in **dynamical systems**. I spent a semester at MIT studying Teichmüller dynamics. I completed my thesis with Professor Yi Liu at BICMR on [virtual homological spectral radii for surface automorphism](https://www.youtube.com/watch?v=dJITVdEu5dc).
 
 
 Education
