@@ -56,7 +56,7 @@ Thesis
 Awards
 ======
 * Silver Award in the Best Thesis Award at the International Congress of Chinese Mathematicians (ICCM)
-* Silver Medals in Shing-Tung Yau College Mathematics Contest
+* Silver Medals in Shing-Tung Yau College Mathematics Contest (Analysis and Differential Equations, ranked 3rd)
 
 Invited Talks
 ======
