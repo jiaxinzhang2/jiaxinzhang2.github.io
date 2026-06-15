@@ -55,8 +55,8 @@ Thesis
 
 Awards
 ======
-* Silver Award in the Best Thesis Award at the International Congress of Chinese Mathematicians (ICCM)
-* Silver Medals in Shing-Tung Yau College Mathematics Contest (Analysis and Differential Equations, ranked 3rd)
+* Silver Award in the Best Thesis Award at the International Congress of Chinese Mathematicians (ICCM), 2025
+* S.-T. Yau College Student Mathematics Contest: Silver Medal in Analysis and Differential Equations (3rd Place), 2017; Silver Medal in Team Competition (2nd Place), 2018.
 
 Invited Talks
 ======
