@@ -24,7 +24,7 @@ Education
 Research
 ======
 * AI theorem proving
-  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928), joint with D. Angdinata, E. Chen, K. Ono, J. Zhang, 2026.
+  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  D. Angdinata, E. Chen, K. Ono, J. Zhang, J.Zhang, 2026.
   
 * Benchmark
   
@@ -32,8 +32,7 @@ Research
 Early Research during my Ph.D. 
 ======
 * Benchmark
-  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/)   
-    Yue Zhang*, Jiaxin Zhang*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma
+  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/),Yue Zhang*, Jiaxin Zhang*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 * Multiple SLE systems
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), Jiaxin Zhang, 2024.
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), Jiaxin Zhang, 2024.
