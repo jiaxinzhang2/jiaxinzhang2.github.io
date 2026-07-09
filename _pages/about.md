@@ -32,7 +32,7 @@ Research
 Early Research during my Ph.D. 
 ======
 * Benchmark
-  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang*, Jiaxin Zhang*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
+  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, Jiaxin Zhang\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 * Multiple SLE systems
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), Jiaxin Zhang, 2024.
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), Jiaxin Zhang, 2024.
