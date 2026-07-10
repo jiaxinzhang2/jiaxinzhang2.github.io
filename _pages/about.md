@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include **reinforcement learning**, **LLM agent**, **evaluation** and **benchmarking**, with an emphasis on **AI for mathematics**.
+My research interests include **post-training**, **agent**, **evaluation**, with an emphasis on **AI for mathematics**.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
