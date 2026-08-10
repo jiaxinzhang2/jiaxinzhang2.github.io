@@ -22,17 +22,17 @@ Education
 Research
 ======
 * AI theorem proving
-  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jujian Zhang, Jiaxin Zhang, 2026.
+  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jujian Zhang, **Jiaxin Zhang**, 2026.
 * Benchmark
-  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, Jiaxin Zhang\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
+  * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
 Early Research during my Ph.D. 
 ======
 * Multiple SLE systems
-  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), Jiaxin Zhang, 2024.
-  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), Jiaxin Zhang, 2024.
-  * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), Jiaxin Zhang, 2025
-  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093),  Jiaxin Zhang, 2025.
+  * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), **Jiaxin Zhang**, 2024.
+  * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), **Jiaxin Zhang**, 2024.
+  * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), **Jiaxin Zhang**, 2025
+  * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093),  **Jiaxin Zhang**, 2025.
 
 
 Notes, Reports and Slides
