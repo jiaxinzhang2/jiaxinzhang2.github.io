@@ -20,7 +20,7 @@ Education
 
 Research
 ======
-* AI theorem proving
+* AI-assisted theorem proving
   * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jujian Zhang, **Jiaxin Zhang**, 2026.
 * Benchmark
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
