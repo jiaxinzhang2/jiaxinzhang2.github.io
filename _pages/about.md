@@ -20,14 +20,14 @@ Education
 
 Research
 ======
-* AI-assisted theorem proving
-  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jujian Zhang, **Jiaxin Zhang**, 2026.
+
 * Benchmark
+  * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale], Shaowu Zhang\*, **Jiaxin Zhang**, Tony Yue Yu
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
-Early Research during my Ph.D. 
-======
-* Multiple SLE systems
+* Dynamical Systems
+  * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jujian Zhang, **Jiaxin Zhang**, 2026.
+* Probability Theory
   * [Multiple radial SLE(0) and classical Calegero-Sutherland system](https://arxiv.org/abs/2410.21544), **Jiaxin Zhang**, 2024.
   * [Multiple radial SLE($\kappa$) and quantum Calegero-Sutherland system](https://arxiv.org/abs/2505.14762), **Jiaxin Zhang**, 2024.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), **Jiaxin Zhang**, 2025
