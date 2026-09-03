@@ -10,7 +10,7 @@ I am interested in **machine learning**, **statistics** and **optimization**.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
-At the beginning of my Ph.D., I spent some time working on **partial differential equations** with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en). I studied equilibria in nonlinear diffusion and nonlocal interaction. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
+At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **partial differential equations**. I studied equilibria in nonlinear diffusion and nonlocal interaction. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
 
 
 Education
