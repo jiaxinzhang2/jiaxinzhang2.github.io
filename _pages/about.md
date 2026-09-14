@@ -22,8 +22,9 @@ Research
 ======
 * Proof Verification
   
-* Benchmarking
+* Evaluation
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](), Shaowu Zhang\*, **Jiaxin Zhang**\*, Tony Yue Yu
+* Benchmarking
   * [GAUSS Benchmark (Benchmarking Structured Mathematical Skills for Large Language Models)](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
 * Dynamical Systems
