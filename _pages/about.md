@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in **machine learning** and **statistics**, with a particular focus on **post-training for large language models**. My current research interests include reinforcement learning with verifiable rewards (RLVR) for reasoning models, the design of RL environments for long-horizon agents, and model and agent evaluation.
+I am interested in **machine learning** and **statistics**, with a particular focus on **post-training for large language models**. My current research interests include reinforcement learning with verifiable rewards (RLVR) for reasoning models, RL environment design for long-horizon agents, and the evaluation of models and agents.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
