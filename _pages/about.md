@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research interests are in machine learning, statistics, and AI for Mathematics, with a particular focus on reasoning, post-training, and evaluation of large language models.
+My current research interests are in machine learning, statistics, optimization, and AI for mathematics.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
