@@ -21,6 +21,8 @@ Education
 Research
 ======
 * Machine Learning and Statistics
+* LLM Evaluation
+  * [Autonomous ML Experimentation Bench](), in preparation.
 * AI for Math
   * [MathDB-Lean: Tracking the Frontier of Formalized Research Mathematics](), in preparation.
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](), Shaowu Zhang\*, **Jiaxin Zhang**\*, Warren Zhou\*, Alexander Du\*, Robert George, Tony Yue Yu, 2026
