@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research interests span machine learning, statistics, and large language model evaluation.
+My current research interests span machine learning theory, statistics, LLM evaluation, and AI for mathematics.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
 
@@ -21,7 +21,7 @@ Education
 Research
 ======
 * Machine Learning and Statistics
-* LLM Evaluation
+* AI for Math
   * [MathDB-Lean: Tracking the Frontier of Formalized Research Mathematics](), in preparation.
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](), Shaowu Zhang\*, **Jiaxin Zhang**\*, Warren Zhou\*, Alexander Du\*, Robert George, Tony Yue Yu, 2026
   * [GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
