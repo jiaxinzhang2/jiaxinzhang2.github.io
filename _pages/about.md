@@ -17,6 +17,7 @@ Education
 ======
 * Ph.D. in Mathematics, California Institute of Technology, 2025
 * B.S. in Mathematics, Peking University, 2019
+* Visiting Student, Massachusetts Institute of Technology, 2018
 
 Research
 ======
