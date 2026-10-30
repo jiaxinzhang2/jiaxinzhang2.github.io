@@ -22,6 +22,7 @@ Education
 Research
 ======
 * Machine Learning
+  * [Bench: Evaluating Autonomous AI Research and Self-Improvement](), in preparation.
 * Statistics
 * AI for Math
   * [MathDB-Lean: Tracking the Frontier of Formalized Research Mathematics](), in preparation.
