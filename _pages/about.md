@@ -21,9 +21,9 @@ Education
 
 Research
 ======
+* Deep Learning Theory
 * Machine Learning
   * [Bench: Evaluating Autonomous AI Research and Self-Improvement](), in preparation.
-* Statistics
 * AI for Math
   * [MathDB-Lean: Tracking the Frontier of Formalized Research Mathematics](), in preparation.
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](), Shaowu Zhang\*, **Jiaxin Zhang**\*, Warren Zhou\*, Alexander Du\*, Robert George, Tony Yue Yu, 2026
