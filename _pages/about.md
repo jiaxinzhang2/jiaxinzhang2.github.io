@@ -8,9 +8,9 @@ redirect_from:
 ---
 My current research interests span **machine learning, statistics**, with a particular focus on **deep learning theory, LLM evaluation, and AI for mathematics**.
 
-During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, where I developed a theory for multiple SLE systems and analyzed their deterministic limits. For background, see the [introductory slides by Fields Medalist Stanislav Smirnov](https://www.unige.ch/~smirnov/slides/index.html). 
+During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **statistical physics**, focusing on the mathematical description of random curves and their interactions. In particular, I developed a theory for multiple Schramm–Loewner Evolution (SLE) systems and studied their deterministic limits, exploring how interacting random curves evolve and what happens as randomness vanishes.
 
-At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **partial differential equations**. I studied equilibria in nonlinear diffusion and nonlocal interaction. For an accessible introduction, see the  [introductory lectures by Caltech applied math professor Franca Hoffmann](https://mm.math.cmu.edu/recordings/cna/franca_hoffmann_small.mp4). 
+At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **partial differential equations** and **optimization**. I studied energy minimization problems arising from nonlinear diffusion and nonlocal interactions, focusing on the structure of their equilibrium states.
 
 
 Education
