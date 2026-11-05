@@ -24,7 +24,6 @@ Research
 * Deep Learning Theory
 * LLM Evaluation
   * [Benchmark: Evaluating Autonomous AI Research and Self-Improvement](), in preparation.
-* AI for Math
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](), Shaowu Zhang\*, **Jiaxin Zhang**\*, Warren Zhou\*, Alexander Du\*, Robert George, Tony Yue Yu, 2026
   * [GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
