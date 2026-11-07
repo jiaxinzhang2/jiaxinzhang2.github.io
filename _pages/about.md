@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research interests span **machine learning** and **statistics**, from theory to applications, including **deep learning** and **reinforcement learning theory**.
+My current research interests span **machine learning** and **statistics**, from theory to applications, including **deep learning theory** and **reinforcement learning theory** etc.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, focusing on the mathematical description of random curves and their interactions. In particular, I developed a theory for multiple Schramm–Loewner Evolution (SLE) systems and studied their deterministic limits, exploring the evolution of interacting random curves and their behavior in the limit as randomness vanishes.
 
