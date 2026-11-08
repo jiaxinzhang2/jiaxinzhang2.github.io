@@ -24,6 +24,8 @@ Research
 * Deep Learning Theory
 * LLM Evaluation
   * [MathDB: A Dynamic Evaluation Platform for Frontier AI in Research Mathematics at Scale](https://drive.google.com/file/d/14-7hHNhEmbrNTufa9LN2V--QmoMXGvCI/view?usp=sharing), Shaowu Zhang\*, **Jiaxin Zhang**\*, Warren Zhou\*, Alexander Du\*, Robert George, Haosen Wu, Tony Yue Yu, 2026
+    
+    [MathDB Database](https://mathdb.com/) is developed by Caltech math department and currently supported by [Meta AI](https://research.meta.ai/blog/supporting-medical-scientific-research). My contributions include building the Lean database and formal verification infrastructure.
   * [GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
 * Probability Theory and Analysis
