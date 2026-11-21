@@ -8,7 +8,7 @@ redirect_from:
 ---
 My current research interests span **machine learning** and **statistics**, from theory to applications, including **reinforcement learning** and **deep learning theory**.
 
-During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, focusing on the mathematical description of 2D random curves and their interactions. In particular, I developed a theory for multiple Schramm–Loewner Evolution (SLE) systems and studied their deterministic limits. My research explores connections between multiple SLE, Dyson Brownian motion in random matrix theory, and integrable systems, revealing how interacting random curves are connected to stochastic many-body dynamics.
+During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory**, focusing on the mathematical description of 2D random curves. In particular, I developed a theory for multiple Schramm–Loewner Evolution (SLE) systems and studied their deterministic limits. My research explores connections between multiple SLE, Dyson Brownian motion in random matrix theory, revealing how interacting random curves are connected to stochastic many-body dynamics.
 
 At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **partial differential equations** and **optimization**. I studied energy minimization problems arising from nonlinear diffusion and nonlocal interactions, focusing on the structure of their equilibrium states.
 
