@@ -28,7 +28,7 @@ Research
     [MathDB Database](https://mathdb.com/) is developed by researchers in Caltech math department and currently supported by [Meta AI](https://research.meta.ai/blog/supporting-medical-scientific-research). My contributions include building the formal verification and evaluation infrastructure and developing the Lean database.
   * [GAUSS: Benchmarking Structured Mathematical Skills for Large Language Models](https://gaussmath.ai/), Yue Zhang\*, **Jiaxin Zhang**\*, Qiuyu Ren, Tahsin Saffat, Xiaoxuan Liu, Zitong Yang, Banghua Zhu, Yi Ma, 2025.
 
-* Probability Theory and Analysis
+* Probability Theory and Dynamical Systems
   * [On the paucity of lattice triangles](https://arxiv.org/pdf/2603.23928),  David Angdinata, Evan Chen, Ken Ono, Jesse Thorner, **Jiaxin Zhang**, Jujian Zhang, 2026.
   * [Multiple chordal SLE(0) and classical Calegero-Moser system](https://arxiv.org/abs/2505.17129), **Jiaxin Zhang**, 2025
   * [Multiple chordal SLE($\kappa$) and quantum Calegero-Moser system](https://arxiv.org/abs/2505.16093),  **Jiaxin Zhang**, 2025.
