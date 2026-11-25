@@ -10,7 +10,7 @@ My current research interests span **machine learning** and **statistics**, from
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **mathematical physics**, focusing on multiple Schramm–Loewner Evolution (SLE) systems. My research connects multiple SLE with conformal field theories (CFT), Dyson Brownian motion in random matrix theory and quantum integrable systems.
 
-At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **partial differential equations** and **optimization**. I studied energy minimization problems arising from nonlinear diffusion and nonlocal interactions, focusing on the structure of their equilibrium states.
+At the beginning of my Ph.D., I also worked with professor [Rupert Frank](https://scholar.google.com/citations?user=shUpPi8AAAAJ&hl=en) on **analysis** and **optimization**, studying energy minimization problems for interacting particle systems with nonlinear diffusion and Coulomb-type interactions, with a particular focus on the structure of equilibrium measures.
 
 
 Education
