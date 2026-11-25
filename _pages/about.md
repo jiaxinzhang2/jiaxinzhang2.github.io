@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research interests span **machine learning** and **statistics**, from theory to applications, including **reinforcement learning** and **deep learning theory**.
+My current research interests span **machine learning** and **statistics**, from theory to applications, including **deep learning theory** and **AI for mathematics**.
 
 During my doctoral studies under the supervision of professor [Nikolai Makarov](https://en.wikipedia.org/wiki/Nikolai_Georgievich_Makarov), I worked on **probability theory** and **mathematical physics**, focusing on multiple Schramm–Loewner Evolution (SLE) systems and their corresponding conformal field theories (CFT). My research connects multiple SLE with conformal field theory and Dyson Brownian motion in random matrix theory.
 
